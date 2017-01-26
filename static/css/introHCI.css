@@ -38,7 +38,8 @@ body {
 }
 
 .jumbotron p.active {
-     color: #1f6ddd;
+     /* color: #1f6ddd; */
+     color: #03ff09;
 }
 
 .project a {
